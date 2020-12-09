@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/crownfeel.git/static/css/main.5f4e8ddc.chunk.css",
+    "main.js": "/crownfeel.git/static/js/main.08b52827.chunk.js",
+    "main.js.map": "/crownfeel.git/static/js/main.08b52827.chunk.js.map",
+    "runtime-main.js": "/crownfeel.git/static/js/runtime-main.4d4d6f12.js",
+    "runtime-main.js.map": "/crownfeel.git/static/js/runtime-main.4d4d6f12.js.map",
+    "static/js/2.fba9eea3.chunk.js": "/crownfeel.git/static/js/2.fba9eea3.chunk.js",
+    "static/js/2.fba9eea3.chunk.js.map": "/crownfeel.git/static/js/2.fba9eea3.chunk.js.map",
+    "index.html": "/crownfeel.git/index.html",
+    "static/css/main.5f4e8ddc.chunk.css.map": "/crownfeel.git/static/css/main.5f4e8ddc.chunk.css.map",
+    "static/js/2.fba9eea3.chunk.js.LICENSE.txt": "/crownfeel.git/static/js/2.fba9eea3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d4d6f12.js",
+    "static/js/2.fba9eea3.chunk.js",
+    "static/css/main.5f4e8ddc.chunk.css",
+    "static/js/main.08b52827.chunk.js"
+  ]
+}
