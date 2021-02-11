@@ -21,20 +21,21 @@
   .price {
     width: 22%;
 
+    @media screen and (max-width: 800px) {
+      font-size: 15px;
+    }
   }
 
   .quantity {
     display: flex;
     align-items: center;
 
-
     .arrow {
-        cursor: pointer;
-
+      cursor: pointer;
     }
 
     .value {
-        margin: 0 6px;
+      margin: 0 6px;
     }
   }
 
